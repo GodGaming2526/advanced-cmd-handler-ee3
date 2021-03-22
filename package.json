@@ -1,0 +1,20 @@
+{
+  "name": "commandhandler",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <a href=\"https://discord.gg/xCCpfth\">     <img src=\"https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png\" alt=\"Discord\" width=\"80\"/>   <a href = \"https://www.youtube.com/watch?v=9h5W4-hzts4&t=794s&ab_channel=reconlx\">     <img src=\"https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png\" alt=\"Discord\" width=\"80\"/>   </a> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.12.0",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^1.2.3"
+  }
+}
