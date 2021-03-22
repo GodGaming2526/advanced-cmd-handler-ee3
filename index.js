@@ -6,7 +6,7 @@ const client = new Client({
 })
 const mongoose = require('mongodb')
 
-mongoose.connect('mongodb+srv://powerbot:veduop1.35@cluster0.e0yke.mongodb.net/test', {
+mongoose.connect('your mongo db link here', { //if you dont know how to get it watch this video : https://youtu.be/eiBn1-Qx0ew
     useUnifiedTopology : true,
     useNewUrlParser : true,
 }).then(console.log('Connected to mongodb  ✅ '))
